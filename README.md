@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Damage Detection using Mask RCNN
 
 This is an implementation of Matterport Mask RCNN trained for car body damage detection.
@@ -51,3 +52,6 @@ tensorboard --logdir=logs
 - __example_images.ipynb__ shows images tested on unseen data, alongside original data
 
 - __map_size.ipynb__ shows example of comparing map size of damage against original object detection (car). This could be used to calculate overall cost of damage
+=======
+# extended_mrcnn
+>>>>>>> 43a7361c5f23ef427d1fd8285f68690ba542c7f2
